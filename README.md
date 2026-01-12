@@ -11,7 +11,7 @@ Enter any word or short phrase, and watch Gemini 3 turn it into **3 witty, emoji
 - Supports English and bilingual inputs (Bengali + English)
 
 ## Demo
-You can try PunnyPals live here: [Insert AI Studio Live Link]  
+You can try PunnyPals live here: https://aistudio.google.com/apps/drive/1UoRAmpPE2ui7Nxu-mhdg8CcbxcUzaeLh?showAssistant=true&resourceKey=&showPreview=true&fullscreenApplet=true  
 
 ## How It Works
 PunnyPals uses **Gemini 3** to:  
